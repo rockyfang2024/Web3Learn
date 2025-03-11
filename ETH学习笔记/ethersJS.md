@@ -112,18 +112,6 @@ Transaction confirmed: TransactionReceipt {
 
 ```
 
-#### 测试网浏览器
-
-- Sepolia 测试网
-    - 区块链浏览器： https://sepolia.etherscan.io
--  Goerli 测试网
-    - 区块链浏览器： https://goerli.etherscan.io
-- 主网（Mainnet）
-    - https://etherscan.io
-
-免费测试币：
-    - https://www.alchemy.com/faucets/ethereum-sepolia
-
 
 #### web3.js 和 ethers.js
 **`web3.js`** 和 **`ethers.js`** 是与以太坊网络交互的两个常见 JavaScript 库，它们各有优点和适用场景。两者的主要功能类似，但在设计、易用性、模块化、安全性等方面存在一些重要区别。
